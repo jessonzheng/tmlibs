@@ -82,7 +82,7 @@ imports:
   - leveldb/table
   - leveldb/util
 - name: github.com/tendermint/go-wire
-  version: b93ebdd4f306833936c243561ec30af3455dc764
+  version: b4f4ce22d3a1c4f8589c88c74ca94b4028495ed5
 - name: github.com/tendermint/log15
   version: f91285dece9f4875421b481da3e613d83d44f29b
 - name: golang.org/x/crypto
